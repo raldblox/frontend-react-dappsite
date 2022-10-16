@@ -9,7 +9,7 @@ Prerequisites: [Node (v16 LTS)](https://nodejs.org/en/download/)
 > clone/fork this repository:
 
 ```bash
-gh repo clone raldblox/frontend-react-dappsite
+gh repo clone https://github.com/raldblox/frontend-react-dappsite
 ```
 
 > In the project directory, you can run:
